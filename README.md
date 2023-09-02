@@ -2,7 +2,8 @@
 [![ColdWindScholar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdWindScholar&show_icons=true&theme=tokyonight)
 # Visitors
 ![](https://count.getloli.com/get/@ColdWindScholar?theme=gelbooru)
-
+# 📱 Devices
+![Redmi 8](https://img.shields.io/badge/Redmi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
