@@ -1,6 +1,6 @@
 ### Hi there 👋
+## Nice to Meet u!
 [![ColdWindScholar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdWindScholar&show_icons=true&theme=tokyonight)
-*** Hi! Welcome to here.
 <!--
 **ColdWindScholar/ColdWindScholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
