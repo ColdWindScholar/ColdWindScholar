@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+# <span style="color:orange;"><td bgcolor=red>[Your phone is about to stop being yours. ](https://keepandroidopen.org)</td></span>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdWindScholar&layout=compact&langs_count=10&theme=radical)
 # Visitors
 ![](https://count.getloli.com/get/@ColdWindScholar?theme=gelbooru)
